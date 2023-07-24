@@ -1,0 +1,4 @@
+create table testdb:
+use testdb;
+create table testtable (id int, Name varchar);
+insert into testtable values (1, Raj), (2, Roxy);
